@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">👩🏻‍💻 Hi <img height="30px" src="./assets/hi.gif">, I’m Alien</h1> 
 
-<!--
-**Alienowy/Alienowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✅ Open to work
+- 🌱 I’m currently learning HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
+
+ <div align="center">
+<img  alt="Alienowy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img  alt="Alienowy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img  alt="Alienowy-Bootstrap" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+</div>
+  
