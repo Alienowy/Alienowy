@@ -3,7 +3,7 @@
 <br>
 
 - ✅ Open to work
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning test automation with Playwright
 
 
 <div align="center">
